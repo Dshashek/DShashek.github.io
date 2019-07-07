@@ -4,12 +4,9 @@
     
 }
 
-.img-l {
-    position: relative;  
-    width: 250px;
-    height: 250px;
-    align-content: center
+.ul {
 
+    style="list-style: none;"
 }
 
 .img-r {
